@@ -1,0 +1,4 @@
+For starting
+cd laravel_start
+➜ npm install && npm run build
+➜ composer run dev

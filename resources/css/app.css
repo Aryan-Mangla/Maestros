@@ -1,0 +1,2 @@
+/* If it previously imported Tailwind, replace it with: */
+@import "bootstrap/dist/css/bootstrap.min.css";
