@@ -1,11 +1,9 @@
 @extends('layouts.guest')
 
 @section('content')
-    <div class="row">
-        <div class="col-md-6">
-
-        </div>
-        <div class="col-md-6">
+    <div class="container ">
+        
+        <div class="">
             <!-- Session Status -->
             <x-auth-session-status class="mb-4" :status="session('status')" />
 
